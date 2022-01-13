@@ -1,0 +1,14 @@
+Caio;16
+Jao;8
+Alicia;14
+Pedro;34
+Mano Menezes;45
+Jean;32
+Thiago;31
+Alex;43
+Daniel Hartman; 21
+Liz;21
+Joui Jouki;32
+Cesar Cohen;31
+Thiago Elias;21
+
