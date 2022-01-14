@@ -1,5 +1,4 @@
-# Exercicios-Python
- Todos os 115 exercícios feitos no curso de Python pela plataforma Curso em Vídeo
+# Python-Exercises
+ All the 115 exercises I made while taking the Python course on cursoemvideo.com
  
- Em suma, este é um repositório com 115 exercícios da linguagem Python. Todos esses exercícios foram feitos durante o curso de Python na plataforma Curso em Vídeo. 
- Além dos exercícios do curso, o repositório também conta com alguns projetos pessoais e "testes" feitos com os conceitos de POO. 
+ In sum, these are all the programing assignments I took on that course. It goes from the most basic python-stuff, like printing 'Hello, world', to some extra exercises I did while learning Object Oriented Programing in Python. 
